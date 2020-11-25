@@ -32,4 +32,4 @@ def getHash():
 		print(hash)
 
 if __name__ == '__main__':
-getHash(
+   getHash() 
